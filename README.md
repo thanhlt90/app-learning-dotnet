@@ -10,3 +10,5 @@
 
 
 
+Docs/Resources reference:
+- https://www.pluralsight.com/paths/aspnet-core
