@@ -12,3 +12,4 @@
 
 Docs/Resources reference:
 - https://www.pluralsight.com/paths/aspnet-core
+- https://github.com/MoienTajik/AspNetCore-Developer-Roadmap
